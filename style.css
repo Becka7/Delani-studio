@@ -125,3 +125,8 @@ h3{
 .portfolio{
     margin-top: 5%;
 }
+button{
+    background-color: transparent;
+    color: white;
+    margin-left: 45%;
+}
