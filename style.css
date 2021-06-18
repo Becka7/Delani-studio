@@ -1,0 +1,9 @@
+.landing{
+
+    background-image: url("/images 1/bg1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+    height: 100vh;
+   
+}
