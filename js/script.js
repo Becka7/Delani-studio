@@ -39,3 +39,9 @@ $(document).ready(function(){
        $('#pog').hide();
     });
 });
+
+
+function sendMessage(){
+    var userName = document.getElementById("uName").value;
+    alert("We got your message .Thank you for your response  "+userName);
+}
