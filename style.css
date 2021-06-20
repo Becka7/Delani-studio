@@ -5,7 +5,7 @@ body{
 }
 .landing{
 
-    background-image: url("/images/bg1.jpg");
+    background-image: url(./images/bg1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     color: white;
@@ -30,7 +30,7 @@ h1,p{
     line-height: 1.8; */
 }
 .services{
-    background-image: url("/images/bg2.jpg");
+    background-image: url(./images/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
@@ -84,7 +84,7 @@ h1,p{
     /* justify-content: space-between; */
 }
 .contact{
-    background-image: url("/images/bg3.jpg");
+    background-image: url(./images/bg3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
