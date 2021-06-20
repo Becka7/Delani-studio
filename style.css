@@ -26,15 +26,15 @@ h1,p{
 }
 .middle{
     padding-top: 3%;
-    /* height: 50vh;
-    line-height: 1.8; */
+    /* /* height: 50vh; */
+    line-height: 1.8; 
 }
 .services{
     background-image: url("./images/bg2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
-    /* line-height: 1.8; */
+    line-height: 1.8;
     color: white;
     padding-top: 4%;
     margin-top: 5%;
