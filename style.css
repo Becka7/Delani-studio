@@ -98,15 +98,20 @@ input{
     margin-bottom: 5%;
     /* margin-right: 10%; */
     border: 1px solid white;
-    margin-left: 2%;
-    padding-right: 15%;
+    /* margin-left: 2%; */
+    padding-right: 15%
 }
-#message{
+textarea{
     
     background-color: transparent;
     border: 1px solid white;
-    margin-left: 22%;
+    margin-left: 5%;
     padding-right: 37%;
+    height: 25vh;
+    padding-right: 30%;
+    padding-left: 30%;
+    margin-right: 20%;
+    text-align: left;
 }
 .socials{
     margin-left: 30%;
@@ -148,5 +153,15 @@ h3{
 button{
     background-color: transparent;
     color: white;
-    margin-left: 45%;
+    margin-left: 38%;
+    width: 10%;
+    height: 5vh;
 }
+#mce-EMAIL{
+    float:right;
+    margin-right: 20%;
+    /* margin-left: 40%; */
+}
+/* #mce-FNAME{
+    margin-left:10%;
+} */
